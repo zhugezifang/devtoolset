@@ -107,7 +107,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
               height={size}
               alt="DomainScore"
             />
-            <span className="inline-block font-bold">Dev Toolset</span>
+            <span className="inline-block font-bold">AiNavList</span>
           </Link>
           <nav className="hidden md:flex gap-6">
             <NavigationMenu>
