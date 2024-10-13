@@ -2,8 +2,9 @@
     // A
     {
       "name": "flux",
-      "description": "flux is text to img",
-      "url": "https://aws.amazon.com/rds/",
+      "path":"flux-ai",
+      "description": "Flux AI automates workflows, integrates with platforms like GitHub, and enhances productivity with AI-powered task management and code generation.      ",
+      "url": "https://www.flux.ai",
       "tags": ["img to text"]
     }
 ]

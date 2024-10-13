@@ -1,39 +1,39 @@
 {
   "home": {
-    "meta_title": "DevToolset: Open-Source Database-free Developer Tools Navigator",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2": "Open-Source & Database-Free Developer Tools Navigator",
-    "description": "Find Every Essential Developer Tools You Need for Your Development Journey"
+    "meta_title": "AiNavList: Discover The Best Ai Tools Navigator",
+    "meta_description": "Discover The Best Ai Tools In AiNavList",
+    "h2": "Discover The Best Ai Tools Navigator",
+    "description": "Discover The Best Ai Tools In AiNavList"
   },
   "category": {
     "meta_title": "Category",
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
+    "meta_description": "Discover The Best Ai Tools In AiNavList",
     "homeBtn": "Home",
     "categoryBtn": "Category",
-    "h1": "Develop Tools Category",
-    "h2": "Find Every Developer Tools You Need Here",
-    "h2description": "All developer tools are sorted alphabetically"
+    "h1": "AI Tools Category",
+    "h2": "Find Every AiNavList Tools You Need Here",
+    "h2description": "All ai tools are sorted alphabetically"
   },
   "article": {
-    "meta_title": "Article",
-    "meta_description": "Read our latest articles on newest developer tools and best practices.",
+    "meta_title": "AiNavList",
+    "meta_description": "Read our latest articles on newest ai tools and best practices.",
     "h1": "Articles",
-    "h2": "Read More About DevToolset",
+    "h2": "Read More About AiNavList",
     "homeBtn": "Home",
     "articleBtn": "Article",
     "backToArticles": "Back to articles"
   },
   "changelog": {
     "meta_title": "Changelog",
-    "meta_description": "Stay up to date with the latest updates in DevToolset.net",
+    "meta_description": "Stay up to date with the latest updates in AiNavList",
     "h1": "Changelog",
-    "h2": "Stay up to date with the latest updates in DevToolset.net",
+    "h2": "Stay up to date with the latest updates in AiNavList",
     "homeBtn": "Home",
     "changelogBtn": "Changelog"
   },
   "tools": {
-    "meta_description": "Find Every Essential Developer Tools You Need For Your Development Journey",
-    "h2_1": "All developer tools related to",
+    "meta_description": "Discover The Best Ai Tools In AiNavList",
+    "h2_1": "All AI tools related to",
     "h2_2": "",
     "homeBtn": "Home"
   },
@@ -49,16 +49,16 @@
     "moreCategoryBtn": "More",
     "moreCategoryDescription": "More Categories",
     "articleBtn": "Article",
-    "articleDescription": "Open-Source Database-free Developer Tools Navigator",
-    "article1Title": "Adding New Developer Tools to DevToolset",
-    "article2Title": "Deploy your own DevToolset",
+    "articleDescription": "The Best AI Tools Navigator",
+    "article1Title": "Adding New AI Tools to AINavList",
+    "article2Title": "Deploy your own AINavList",
     "moreArticleBtn": "More",
     "moreArticleDescription": "More articles",
     "changelogBtn": "Changelog",
     "submitToolBtn": "Submit Tool"
   },
   "footer": {
-    "description": "OpenSource & Database-free Developer Tools Navigator",
+    "description": "Discover The Best Ai Tools In AiNavList",
     "builtWith": "Built with",
     "quickLinks": "Quick Links",
     "home": "Home",
