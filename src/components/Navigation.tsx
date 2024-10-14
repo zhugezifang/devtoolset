@@ -156,7 +156,7 @@ export const Navigation = ({ categories }: navigationProp ) => {
                             href="/"
                           >
                             <div className="mb-2 mt-4 text-lg font-medium">
-                              Dev Toolset
+                              AiNavList
                             </div>
                             <p className="text-xs leading-tight text-muted-foreground">
                               {t('articleDescription')}
@@ -164,11 +164,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
                           </a>
                         </NavigationMenuLink>
                       </li>
-                      <ListItem href="/article/add-new-developer-tools" title="Add Tools">
+                      <ListItem href={"https://github.com/zhugezifang/ai-nav-list"} target="_blank"  title="Add Tools">
                         {t('article1Title')}
-                      </ListItem>
-                      <ListItem href="/article/deploy-own-devtoolset" title="Deploy DevToolset">
-                        {t('article2Title')}
                       </ListItem>
                       <ListItem href="/article" title={t('moreArticleBtn')} className='border border-muted  bg-gradient-to-b  from-muted/50 to-muted/20'>
                         {t('moreArticleDescription')}
@@ -188,7 +185,8 @@ export const Navigation = ({ categories }: navigationProp ) => {
           </nav>
         </div>
         <div className="flex items-center gap-3">
-          <Link href="/article/add-new-developer-tools" className='hidden md:block'>
+          <Link href={"https://github.com/zhugezifang/ai-nav-list"}
+            target="_blank" className='hidden md:block'>
             <Button variant="outline" className='text-sm tracking-tight'>{t('submitToolBtn')}</Button>
           </Link>
           <div className="flex items-center gap-1">
