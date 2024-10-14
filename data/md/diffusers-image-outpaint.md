@@ -2,6 +2,7 @@
 title: 'Diffusers Image Outpaint: Revolutionizing Image Generation'
 description: 'Diffusers Image Outpaint: Revolutionizing Image Generation'
 date: '2024-10-14T11:23:12.027Z'
+lastModified: '2024-10-14T11:25:55.997Z'
 ---
 Image editing and generation have undergone dramatic transformations in recent years, thanks to advancements in machine learning and artificial intelligence. One of the most exciting tools emerging from this wave of innovation is Diffusers Image Outpaint. This tool, based on deep learning technology, allows users to extend images effortlessly, offering seamless expansion of a given visual beyond its original borders.
 
@@ -27,9 +28,6 @@ Diffusers Image Outpaint works by using deep learning models trained on large da
 
 1. Input Image:
    You begin with a base image. This could be a landscape, portrait, or any other visual you wish to extend.
-
-![origin image](https://fffiloni-diffusers-image-outpaint.hf.space/file=/tmp/gradio/58d27ee015923ff8867291e88910c3b1fc5e49698a7a06372037c6d58cd5452e/example_1.webp)
-
 2. Selection of Aspect Ratio:
    Once the image is uploaded, you select the desired aspect ratio for the extension. The ratio determines how far the image will be expanded horizontally or vertically.
 3. AI Model Predictions:
@@ -39,8 +37,6 @@ Diffusers Image Outpaint works by using deep learning models trained on large da
    The Magic Behind Outpainting: Diffusers and Stable Diffusion
    What Are Diffusers?
    Diffusers are advanced machine learning techniques used to generate images by iterating over noise. They allow the model to gradually refine a blurry or incomplete image into a final, high-quality picture. In the context of Outpainting, Diffusers help predict the additional content that should appear when an image is extended. This technique excels at producing coherent and visually appealing results, even for complex images.
-
-![result image](https://fffiloni-diffusers-image-outpaint.hf.space/file=/tmp/gradio/6fda515a6b0e7280d9d676590c3fd930047ae24bada75914d75edbaac6b01112/image.webp)
 
 #### The Role of Stable Diffusion
 
@@ -69,6 +65,8 @@ Using Diffusers Image Outpaint is incredibly simple. Here’s a quick step-by-st
 
 Upload Your Image:
 
+![origin image](https://fffiloni-diffusers-image-outpaint.hf.space/file=/tmp/gradio/58d27ee015923ff8867291e88910c3b1fc5e49698a7a06372037c6d58cd5452e/example_1.webp)
+
 Start by selecting the image you wish to expand. This could be any visual, from a piece of artwork to a photograph.
 Select the Desired Aspect Ratio:
 
@@ -81,6 +79,8 @@ Review and Refine:
 Depending on the results, you can refine the process or make slight adjustments. Since the process is fast and easy, it encourages experimentation and creativity.
 The Future of Image Generation with Outpainting
 As AI tools like Diffusers Image Outpaint evolve, we can expect even more sophisticated applications in the realm of visual content creation. Outpainting is only the beginning; future versions of these tools could allow for full scene generation from minimal input, intelligent object insertion, and even dynamic scene modifications.
+
+![result image](https://fffiloni-diffusers-image-outpaint.hf.space/file=/tmp/gradio/6fda515a6b0e7280d9d676590c3fd930047ae24bada75914d75edbaac6b01112/image.webp)
 
 For businesses, creatives, and hobbyists alike, the potential to generate, extend, and refine images without intensive manual effort is a game-changer. These tools will empower users to push the boundaries of what’s visually possible, creating richer, more engaging content across all platforms.
 
