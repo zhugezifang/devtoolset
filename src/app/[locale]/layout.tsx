@@ -21,17 +21,10 @@ const sansFont = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: {
-    default: 'DevToolset: Open-Source Database-free Developer Tools Navigator',
-    template: '%s | DevToolset'
-  },
-  description: 'Explore Every Essential Developer Tools You Need For Your Development Journey',
-  authors: { name: 'DevToolset', url: 'https://DevToolset.net/' },
-  keywords: 'developer tools, dev tools, develop tool',
   alternates: {
-    canonical: "https://DevToolset.net/", languages: {
-      "en-US": "https://DevToolset.net/en/",
-      "zh-CN": "https://DevToolset.net/zh/",
+    canonical: "https://ai-nav.online/", languages: {
+      "en-US": "https://ai-nav.online/en/",
+      "zh-CN": "https://ai-nav.online/zh/",
     }
   },
   icons: [
