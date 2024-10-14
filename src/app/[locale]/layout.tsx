@@ -56,6 +56,7 @@ export default async function RootLayout({
   return (
     <>
       <html lang={locale} suppressHydrationWarning>
+        <meta name="google-site-verification" content="f7dCq3MK4bPt-HscpfKTjYhodiOSp1eYPPPFcqLyTY4" />
         <head />
         <body className={cn(inter.className, sansFont.variable,
         )}>
