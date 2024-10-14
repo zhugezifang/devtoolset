@@ -14,7 +14,7 @@ In the rapidly evolving landscape of digital technology, artificial intelligence
 
 ![Hailuo AI Image](https://cdn-b0.goenhance.ai/static/site/6c5af408-2150-4f15-ab3e-6529b2b228e0.jpeg "Hailuo AI Image")
 
-<a href="https://hailuoai.com/" target="_blank">hailuo ai website</a>
+you can visit [hailuo ai website](https://hailuoai.com/) to try it
 
 #### The Rise of AI in Video Production
 
@@ -52,4 +52,4 @@ Hailuo AI Video is poised to play a pivotal role in this evolution, continually 
 
 In conclusion, Hailuo AI Video represents a significant leap forward in the field of video production. By harnessing the power of AI, the platform offers a comprehensive suite of tools that streamline the creation process, enhance collaboration, and elevate the quality of video content. As the demand for video continues to grow, Hailuo AI Video is well-positioned to meet the needs of creators across various industries, driving the future of digital storytelling and content creation.
 
-#### Recommend AI Product: <a href="http://www.ai-timeline.top/" style="color:red" target="_blank">AI TimeLine</a>
+#### Recommend AI Product: [AI TimeLine](http://www.ai-timeline.top)
