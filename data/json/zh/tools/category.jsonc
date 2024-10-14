@@ -16,19 +16,10 @@
 [
   // A
   {
-    "name": "分析",
-    "src": "analytics.jsonc",
-    "link": "analytics",
-    "description": "用于跟踪和分析网站数据的工具。"
-  },
-  // B
-  // C
-  // D
-  {
-    "name": "数据库",
-    "src": "database.jsonc",
-    "link": "database",
-    "description": "用于存储和管理数据的服务。"
+    "name": "文生图AI工具",
+    "src": "text2img.jsonc",
+    "link": "text2img",
+    "description": "文生图AI工具"
   }
   // X
   // Y

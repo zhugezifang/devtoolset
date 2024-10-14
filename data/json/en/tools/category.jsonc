@@ -12,28 +12,12 @@
 // 2. Affiliate links are not allowed
 // 3. Do not submit tools that are unrelated to development.
 [
-    // A
-    {
-      "name": "analytics",
-      "src": "analytics.jsonc",
-      "link": "analytics",
-      "description": "Tools for tracking and analyzing website data."
-    },
-    // B
-    // C
-    // D
-    {
-      "name": "database",
-      "src": "database.jsonc",
-      "link": "database",
-      "description": "Services for storing and managing data."
-    },
     {
         "name": "text to image",
         "src": "text2img.jsonc",
         "link": "text-to-img",
         "description": "AI Tools for Text To Image."
-      },
+    }
     // X
     // Y
     // Z

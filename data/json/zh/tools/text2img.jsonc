@@ -1,9 +1,9 @@
 [
     // A
     {
-      "name": "Ai Timeline",
+      "name": "AI时间线",
       "path":"ai-timeline",
-      "description": "AI Timeline is use AI to generate history timeline",
+      "description": "AI 时间线是利用AI来生成历史时间线",
       "url": "http://ai-timeline.top/",
       "tags": ["text to img"]
     },
