@@ -7,8 +7,9 @@ date: '2024-11-01T07:39:18.440Z'
 
 In a world overflowing with information, digital learners increasingly face the challenge of digesting large volumes of content in limited time. Traditional formats like PDFs, although valuable, often lack the engaging qualities that today’s audiences crave. Enter "PDF to Brainrot," an innovative tool that reimagines static PDF documents as vibrant, TikTok-style videos, packed with visuals, audio, and engaging text to capture attention in seconds. While still in development, this tool aims to transform how we consume and retain knowledge, particularly for students and professionals who rely heavily on dense materials like academic papers, technical documents, or lengthy reports​
 
-<video width="320" height="240" controls>
-    <source src="https://static.pdftobrainrot.org/studio.mp4 type="video/mp4">
+<video width="560" height="350" controls>
+  <source src="https://static.pdftobrainrot.org/studio.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
 </video>
 
 ### Background on PDF to Brainrot
@@ -38,6 +39,6 @@ Discuss the tool's strengths, such as increased engagement and information reten
 
 Examine what the future holds for PDF to Brainrot, especially as the tool continues its development. Could it integrate with popular document-sharing platforms or expand to support other file types?
 
-###Conclusion
+### Conclusion
 
 Wrap up with thoughts on how PDF to Brainrot reflects the evolving digital landscape, where brevity and engagement are paramount. Consider its long-term impact on education, professional fields, and casual content consumption, emphasizing that this innovative tool is just the beginning of a broader trend toward condensed, impactful learning.
