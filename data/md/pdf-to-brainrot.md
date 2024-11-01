@@ -9,7 +9,7 @@ In a world overflowing with information, digital learners increasingly face the 
 
 ![PDF to Brainrot Image](https://duckfiles.oss-cn-qingdao.aliyuncs.com/eleduck/image/b3d67a20-5655-4529-9f3f-07868a391f8d.png)
 
-[video]https://static.pdftobrainrot.org/studio.mp4
+[video](https://static.pdftobrainrot.org/studio.mp4)
 
 ### Background on PDF to Brainrot
 
